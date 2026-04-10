@@ -1,2 +1,1 @@
-# PesquisaMetodosNumericos
-Pesquisa pelo GET, resolução de Derivadas e EDO's por métodos númericos e diferenciação automática
+Solução, simulação e otimização de Equações Diferenciais Parciais (EDPs) utilizando JAX. Este projeto explora diferenciação automática e computação de alto desempenho (GPU/TPU) para simulações físicas e matemáticas eficientes.
