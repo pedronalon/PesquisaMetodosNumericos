@@ -1,2 +1,1 @@
-# PesquisaMetodosNumericos
-Pesquisa pelo GET, resolução de Derivadas e EDO's por métodos númericos e diferenciação automática
+# Solução e otimização de equações diferenciais parcias com JAX: computação de alto desempenho e diferenciação automática
